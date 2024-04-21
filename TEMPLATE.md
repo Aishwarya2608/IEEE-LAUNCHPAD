@@ -1,8 +1,9 @@
 # Full Name 
-
+Aishwarya Muraleedharan
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a final year B.Tech Computer Science student with a strong desire to learn and make a real impact. I'm actively seeking opportunities to expand my skillset and embrace new challenges. My dedication to hard work makes me a valuable asset to any team.  During my internship at Logixspace Pvt Ltd, I gained experience in full-stack development using MERN and developed dynamic website components. I also designed an intuitive user interface for an e-learning platform while on industrial training at Avodha Edutech Pvt Ltd.  My final year project, ChatVideo, is a video summarization chatbot for wildlife and travel videos which uses CNN, Bert Summarizer and YOLOv3 technologies.My minor project focused on building an automated coin sorting system using deep learning. I'm proficient in programming languages Python, C/C++, and various design tools.
+
 
 
 ## Portfolio Highlights
@@ -11,12 +12,14 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| ChatVideo: Video Summarization and Chatting  | An interactive web application brings together a wildlife and travel video summarization chatbot. Pre-trained image captioning and BERT models summarize the visuals, while YOLO identifies wildlife. For travel videos specifically, a custom CNN classifies landscapes, and audio-to-text summarization extracts key information from narration. Users can chat with the chatbot to get quick summaries of the videos they choose, making this a user-friendly tool.                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Automated Coin Sorting and Counting System  | Designed and developed an automated coin sorting system using deep 
+learning principles and YOLO-based image processing. 
+Platforms: Arduino IDE, Jupyter Notebook                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I served as the team leader at the "Hack the Hackathon" event - Techfoss 2021, a National Level Technical Fest.Also I have coordinated college events for technical fests, 
 
 #### Networking:
 
